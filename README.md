@@ -1,10 +1,11 @@
 # projeto_perguntas
 
-A new Flutter project.
+Projeto de Perguntas e Respostas com Flutter
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Esse projeto apresenta um questionário, e exibe ao final uma pontuação geral.
+Foi utilizado o Flutter para a construção dessa aplicação.
 
 A few resources to get you started if this is your first Flutter project:
 
